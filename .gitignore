@@ -2,3 +2,6 @@
 .idea
 .vsc
 
+Kotlin/.idea
+Kotlin/out
+Kotlin/app.jar

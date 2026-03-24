@@ -1,0 +1,23 @@
+{
+  "name": "objects-y-records",
+  "version": "1.0.0",
+  "description": "Este repositorio contiene el desarrollo de la actividad de la unidad 1 en la asignatura **Estructura de datos**",
+  "main": "index.js",
+  "scripts": {
+    "build:kt": "kotlinc Kotlin/src/Main.kt Kotlin/src/Records/Estudiante.kt -include-runtime -d Kotlin/app.jar && java -jar Kotlin/app.jar|| echo \"Error de compilación\"",
+    "kt": "java -jar Kotlin/app.jar",
+    "ts": "node Typescript/Main.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GomezRKevinM/Objects-y-Records.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/GomezRKevinM/Objects-y-Records/issues"
+  },
+  "homepage": "https://github.com/GomezRKevinM/Objects-y-Records#readme"
+}
