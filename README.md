@@ -69,7 +69,9 @@ Este repositorio contiene el desarrollo de la actividad de la unidad 1 en la asi
 
 Implementar el mismo problema con un struct/record y con un objeto para analizar ventajas y desventajas.
 
-> [!TIP]💡 Tip para evaluación final:
+> [!TIP]
+> Optional information to help a user be more successful.
+> 💡 Tip para evaluación final:
 > Un mini-proyecto integrador donde deban:
 > Usar un arreglo de objetos que contengan un campo que sea a su vez una matriz.
 
