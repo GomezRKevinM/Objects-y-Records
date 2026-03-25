@@ -9,4 +9,7 @@ fun main() {
     for (est in estudiantes){
         est.mostrarInfo()
     }
+
+    estudiante.setPromedio(4.9)
+    println("Nuevo promedio para ${estudiante.nombre}, promedio: ${estudiante.getPromedio()}")
 }
