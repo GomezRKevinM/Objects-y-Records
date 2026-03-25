@@ -5,3 +5,6 @@
 Kotlin/.idea
 Kotlin/out
 Kotlin/app.jar
+
+./node_modules
+node_modules

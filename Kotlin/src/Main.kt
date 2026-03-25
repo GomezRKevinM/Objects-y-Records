@@ -6,4 +6,7 @@ fun main() {
     val estudiante3 = Estudiante("Jimena",22,3.8)
 
     val estudiantes = listOf(estudiante, estudiante2, estudiante3)
+    for (est in estudiantes){
+        est.mostrarInfo()
+    }
 }
