@@ -4,7 +4,7 @@
   "description": "Este repositorio contiene el desarrollo de la actividad de la unidad 1 en la asignatura **Estructura de datos**",
   "main": "index.js",
   "scripts": {
-    "build:kt": "kotlinc Kotlin/src/Main.kt Kotlin/src/Records/Estudiante.kt -include-runtime -d Kotlin/app.jar && java -jar Kotlin/app.jar|| echo \"Error de compilación\"",
+    "build:kt": "kotlinc Kotlin/src -include-runtime -d Kotlin/app.jar && java -jar Kotlin/app.jar|| echo \"Error de compilación\"",
     "kt": "java -jar Kotlin/app.jar",
     "ts": "node Typescript/Main.ts"
   },

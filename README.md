@@ -18,19 +18,18 @@ Este repositorio contiene el desarrollo de la actividad de la unidad 1 en la asi
 #### Actividades:
 
 1. Declaración
+   Definir un struct o record que contenga: nombre, edad, promedio.
 
-2. Definir un struct o record que contenga: nombre, edad, promedio.
-
-3. Inicialización 
+2. Inicialización 
     Crear 3 instancias con datos ficticios en todos los lenguajes dados (Java, C#, JS, TS, Python, Kotlin, Dart, Go, C, C++, PHP).
 
-4. Recorrido 
+3. Recorrido 
    Guardar las instancias en un arreglo y recorrerlo mostrando los datos.
 
-5. Modificación 
+4. Modificación 
    Cambiar el promedio de un estudiante específico.
 
-6. Comparativa
+5. Comparativa
    Documentar las diferencias de implementación en los lenguajes.
 
 ---
@@ -40,23 +39,21 @@ Este repositorio contiene el desarrollo de la actividad de la unidad 1 en la asi
 #### Actividades:
    
 1. Declaración 
+   Definir una clase Estudiante con: nombre, edad, promedio y un método mostrarInfo. 
 
-2. Definir una clase Estudiante con: nombre, edad, promedio y un método mostrarInfo. 
-
-3. Inicialización
+2. Inicialización
    Crear 3 instancias y almacenarlas en un arreglo/lista. 
 
-4. Recorrido
+3. Recorrido
    Llamar al método mostrarInfo para cada objeto. 
 
-5. Modificación
+4. Modificación
    Cambiar el promedio de un estudiante mediante un método setPromedio. 
 
-6. Comparativa
+5. Comparativa
    Explicar la diferencia entre esta clase y un struct o record.
 
-
-
+   
 ### Diferencias entre Struct/Record y Objetos
    
 #### Actividad teórico-práctica:
