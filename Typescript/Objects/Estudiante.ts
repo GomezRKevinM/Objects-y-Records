@@ -12,4 +12,12 @@ export class Estudiante{
     public mostrarInfo(): void{
         console.log(`Nombre: ${this.nombre}\nEdad: ${this.edad},\nPromedio: ${this.promedio}\n`);
     }
+
+    public setPromedio(promedio: number){
+        this.promedio = promedio;
+    }
+
+    public getPromedio():number{
+        return this.promedio;
+    }
 }

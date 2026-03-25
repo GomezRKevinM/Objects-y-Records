@@ -9,3 +9,7 @@ const estudiantes = [estudiante, estudiante2, estudiante3]
 for (const est of estudiantes){
     est.mostrarInfo()
 }
+
+estudiante.setPromedio(4.8)
+
+console.log(`Promedio de ${estudiante.nombre} actualizado a: ${estudiante.getPromedio()}`)
